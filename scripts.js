@@ -21,6 +21,7 @@ $(document).on("keypress", function (e) {
 
 function ghost4() {
     $(".ghost4 img").toggle("kepress")
+
 }
 
 

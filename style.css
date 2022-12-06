@@ -47,11 +47,8 @@ h2 {
 
 
 .title {
-    display: grid;
-    grid-template-columns: 1fr;
-    text-align: center;
-    margin-left: 20px;
-    margin-bottom: 0;
+    display: flex;
+    justify-content: center;
 }
 
 .paragraph {
