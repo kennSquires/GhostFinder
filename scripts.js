@@ -59,8 +59,8 @@ $(document).on("keypress", function (e) {
 
 function ghost5() {
     $(".ghost5 img").toggle("kepress")
-    var audio = new Audio ('sounds/ghostsound.mp3')
-    audio.play(); 
+    var audio = new Audio('sounds/ghostsound.mp3')
+    audio.play();
 }
 
 function gameRest() {
